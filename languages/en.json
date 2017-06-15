@@ -1,0 +1,9 @@
+{
+   language: 'en',
+   strings: {
+    HOME: 'Home',
+    FEATURES: 'Features',
+    SCREENSHOTS: 'Screenshots',
+    PRESENTATION: 'Presentation'
+   }
+}

@@ -1,0 +1,9 @@
+{
+  language: 'ch',
+  strings: {
+    HOME: '家',
+    FEATURES: '特点',
+    SCREENSHOTS: '截图',
+    PRESENTATION: '介绍'
+   }
+}

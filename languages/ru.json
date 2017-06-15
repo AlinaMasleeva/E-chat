@@ -1,0 +1,9 @@
+{
+   language: 'ru',
+   strings: {
+    HOME: 'Наверх',
+    FEATURES: 'Функции',
+    SCREENSHOTS: 'Скриншоты',
+    PRESENTATION: 'Презентация'
+   }
+  }

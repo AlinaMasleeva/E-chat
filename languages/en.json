@@ -1,9 +1,14 @@
 {
-   language: 'en',
-   strings: {
-    HOME: 'Home',
-    FEATURES: 'Features',
-    SCREENSHOTS: 'Screenshots',
-    PRESENTATION: 'Presentation'
-   }
+    "language": "en",
+    "strings": {
+        "HOME": "Home",
+        "FEATURES": "Features",
+        "SCREENSHOTS": "Screenshots",
+        "PRESENTATION": "Presentation",
+        "GETNOW": "Get App now",
+        "CONTACTTHEWORLD": "Contact the world - anytime, anywhere",
+        "CREATEPLATFORM": "We create a global social platform, powerful photo filters, one-click photo processing, high-quality content - we will help you to discover the new world.",
+        "LEARN": "Learn more",
+        "DOWNLOAD": "Download from"
+    }
 }

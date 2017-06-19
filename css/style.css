@@ -201,6 +201,10 @@ nav .navbar-collapse .navbar-right > li > a:hover {
 
 nav .btn-getnow {
   text-align: center;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  white-space: nowrap;
+  padding: 0 5px;
   float: right;
   height: 35px;
   width: 90px;
@@ -3295,7 +3299,7 @@ Styles for smaller devices
 
 @media (min-width: 360px) {
   nav .btn-getnow {
-    width: 120px;
+    width: 150px;
   }
 }
 

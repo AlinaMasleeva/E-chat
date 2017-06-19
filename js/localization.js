@@ -1,11 +1,11 @@
-'use strict';
+"use strict";
 
 var localization = {
   currentLanguage: 'en',
 
   data: [
     { language: 'en', strings: null/*strings will be loaded if null*/ },
-    // { language: 'ru', strings: null/*strings will be loaded if null*/ }, //Russian
+    // { language: 'ru', strings: null/*strings will be loaded if null*/ }, Russian
     { language: 'ch', strings: null/*strings will be loaded if null*/ }
   ],
 
@@ -53,7 +53,9 @@ var localization = {
       for (var i = 0, n = allElements.length; i < n; i++) {
         var key = allElements[i].getAttribute("lng");
         if (key !== null) {
-          if (allElements[i].tagName == 'input') {
+           if (allElements[i] == undefined) {
+             continue;
+           } else if (allElements[i].tagName == 'input') {
             allElements[i].value = localization.translateKey(key);
           }
           else {

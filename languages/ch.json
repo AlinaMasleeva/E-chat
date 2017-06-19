@@ -5,10 +5,27 @@
     "FEATURES": "特点",
     "SCREENSHOTS": "截图",
     "PRESENTATION": "介绍",
-    "GETNOW": "现在获取应用程序", //现在获取 - Get now
+    "GETNOW": "现在获取应用程序",
     "CONTACTTHEWORLD": "随时随地沟通世界",
     "CREATEPLATFORM": "打造全球通用的纯净社交平台，强大滤镜，一键美图无忧，优质内容，让你发现新的世界。",
     "LEARN": "了解更多",
-    "DOWNLOAD": "下载"
+    "DOWNLOAD": "下载",
+    "OVERVIEW": "概观",
+    "CREATIVEDESIGN": "创新设计",
+    "LOVELYAPP": "可爱APP",
+    "EASYCUSTOMIZE": "易于定制",
+    "FULLYSUPPORT": "全力支持服务",
+    "EASYSTEPS": "简易步骤",
+    "ACCURATE": "干净界面纯净社交",
+    "SENDVOICE": "发送高质量语音",
+    "PHOTOPROCESS": "精美修图一键无忧",
+    "SHORTVIDEO": "短视频",
+    "SHORTVIDEOTEXT": "断点续传精彩瞬间神级串联",
+    "HIGHCONTENT": "优质内容",
+    "HIGHCONTENTTEXT": "精彩世界",
+    "MESSAGEREVIEW": "按摩评论",
+    "MESSAGEREVIEWTEXT": "通过按钮保持，读取后删除信息",
+    "THENEWEST": "全新支",
+    "THENEWESTTEXT": "付缴费无忧"
    }
 }

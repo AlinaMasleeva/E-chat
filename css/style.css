@@ -263,6 +263,28 @@ nav.bg-solid .btn-getnow:hover {
   color: white;
 }
 
+.lang-icon {
+  background: url("../img/flag-icons.png");
+  background-repeat: no-repeat;
+  display: inline-block;
+  vertical-align: middle;
+  padding: 0 0 8px 0 !important;
+  box-sizing: content-box;
+  margin: 5px 0 0 0;
+}
+
+.lang-icon-en {
+  background-position: -327px -800px;
+  width: 30px;
+  height: 20px;
+}
+
+.lang-icon-ch {
+  background-position: -111px -656px;
+  width: 30px;
+  height: 20px;
+}
+
 /*--------------------------------
 End Nav
 ----------------------------------*/

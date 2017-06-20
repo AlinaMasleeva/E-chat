@@ -1227,6 +1227,7 @@ Features
 
 .sec-features [class^="col-"]:not(.container-acting) {
   max-width: 480px;
+  min-height: 215px;
   margin: 0 auto 15px;
 }
 

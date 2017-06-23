@@ -135,6 +135,10 @@ body {
   transition: width 0.25s ease;
 }
 
+.padding {
+  padding: 20px 0 10px;
+}
+
 /*--------------------------------
 Nav
 ----------------------------------*/
@@ -355,7 +359,7 @@ header .container {
 }
 
 header .container [class^='col-']:first-child {
-  padding-top: 113px;
+  padding-top: 60px;
 }
 
 header .container [class^='col-'].col-header-img {
@@ -4134,6 +4138,14 @@ Styles for smaller devices
   .sec-blog .thumbnail-blog .thumbnail-img,
   .sec-blog-list .thumbnail-blog .thumbnail-img {
     height: 200px;
+  }
+
+  .sec-get-app {
+    text-align: center;
+  }
+
+  .sec-get-app .hr {
+    background-position: center;
   }
 
   .sec-get-app a {

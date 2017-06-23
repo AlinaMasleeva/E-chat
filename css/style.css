@@ -264,7 +264,7 @@ nav.bg-solid .btn-getnow:hover {
 }
 
 .lang-icon {
-  background: url("../img/flag-icons.png");
+  background: url("../img/groop-languages.png");
   background-repeat: no-repeat;
   display: inline-block;
   vertical-align: middle;
@@ -273,15 +273,19 @@ nav.bg-solid .btn-getnow:hover {
 }
 
 .lang-icon-en {
-  background-position: -504px -290px;
-  width: 34px;
-  height: 34px;
+  background-position: -22px -101px;
+  width: 32px;
+  height: 32px;
 }
 
 .lang-icon-ch {
-  background-position: -73px -218px;
-  width: 34px;
-  height: 34px;
+  background-position: -132px -143px;
+  width: 32px;
+  height: 32px;
+}
+
+nav .navbar-collapse .navbar-right > li > a.lang-icon:hover {
+  border-bottom: none;
 }
 
 /*--------------------------------
